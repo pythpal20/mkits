@@ -1,0 +1,17 @@
+[25-Dec-2021 12:49:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/horek940/public_html/mkits/Apps/serverside_agil/ssp.php on line 166
+[26-Aug-2022 17:24:17 Asia/Jakarta] PHP Warning:  PDOStatement::execute(): MySQL server has gone away in /home/horek940/public_html/mkits/Apps/serverside_agil/ssp.php on line 352
+[26-Aug-2022 17:24:17 Asia/Jakarta] PHP Warning:  PDOStatement::execute(): Error reading result set's header in /home/horek940/public_html/mkits/Apps/serverside_agil/ssp.php on line 352
+[14-Sep-2022 11:09:45 Asia/Jakarta] PHP Warning:  mysqli::query(): MySQL server has gone away in /home/horek940/public_html/mkits/Apps/serverside_agil/serverside_keepstock.php on line 14
+[14-Sep-2022 11:09:45 Asia/Jakarta] PHP Warning:  mysqli::query(): Error reading result set's header in /home/horek940/public_html/mkits/Apps/serverside_agil/serverside_keepstock.php on line 14
+[14-Sep-2022 11:09:45 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/horek940/public_html/mkits/config/connection.php on line 7
+[14-Sep-2022 11:09:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/horek940/public_html/mkits/config/connection.php on line 9
+[14-Sep-2022 11:09:45 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/horek940/public_html/mkits/config/connection.php:16
+Stack trace:
+#0 /home/horek940/public_html/mkits/config/connection.php(16): PDO->__construct('mysql:host=loca...', 'horek940_salsys', 'Garuda752021')
+#1 /home/horek940/public_html/mkits/Apps/serverside_agil/serverside_keepstock.php(11): include('/home/horek940/...')
+#2 /home/horek940/public_html/mkits/Apps/serverside_agil/serverside_keepstock.php(88): ambilStatusperkeepstock('3170')
+#3 /home/horek940/public_html/mkits/Apps/serverside_agil/ssp.php(50): {closure}('3170', Array)
+#4 /home/horek940/public_html/mkits/Apps/serverside_agil/ssp.php(284): SSP::data_output(Array, Array, NULL)
+#5 /home/horek940/public_html/mkits/Apps/serverside_agil/serverside_keepstock.php(136): SSP::simple(Array, Array, ' (\r\n    SELECT ...', 'no_keepstock', Array, NULL)
+#6 {main}
+  thrown in /home/horek940/public_html/mkits/config/connection.php on line 16

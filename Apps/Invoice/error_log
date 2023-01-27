@@ -1,0 +1,10 @@
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(template/load_css.php): failed to open stream: No such file or directory in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 21
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(): Failed opening 'template/load_css.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 21
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(template/header.php): failed to open stream: No such file or directory in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 36
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(): Failed opening 'template/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 36
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(template/header_bottom.php): failed to open stream: No such file or directory in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 39
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(): Failed opening 'template/header_bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 39
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(template/footer.php): failed to open stream: No such file or directory in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 99
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(): Failed opening 'template/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 99
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(template/load_js.php): failed to open stream: No such file or directory in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 103
+[21-Jun-2022 09:29:52 UTC] PHP Warning:  include(): Failed opening 'template/load_js.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/horek940/public_html/mkits/Apps/Invoice/InvMwk.php on line 103

@@ -1,0 +1,138 @@
+[23-Dec-2021 02:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 47
+[23-Dec-2021 02:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 47
+[23-Dec-2021 02:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 02:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 02:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 02:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 47
+[23-Dec-2021 02:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 47
+[23-Dec-2021 03:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 03:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 03:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 03:47:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 03:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[23-Dec-2021 03:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsv.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsv.php on line 28
+[07-Jan-2022 07:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporansm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporansm.php on line 26
+[07-Jan-2022 07:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporansm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporansm.php on line 26
+[07-Jan-2022 07:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporansm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporansm.php on line 26
+[07-Jan-2022 07:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporansm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporansm.php on line 26
+[07-Jan-2022 08:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporansm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporansm.php on line 26
+[07-Jan-2022 08:02:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporansm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporansm.php on line 26
+[19-Jan-2022 04:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/horek940/public_html/mkits/Apps/export/laporanpts.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/laporanpts.php on line 19
+[07-Mar-2022 06:22:58 UTC] 0
+[07-Mar-2022 06:52:10 UTC] 0
+[07-Mar-2022 07:45:06 UTC] 0
+[07-Mar-2022 08:36:03 UTC] 0
+[07-Mar-2022 09:13:52 UTC] 0
+[08-Mar-2022 02:33:27 UTC] 0
+[09-Mar-2022 03:55:06 UTC] 0
+[09-Mar-2022 04:36:46 UTC] 0
+[10-Mar-2022 02:59:43 UTC] 0
+[10-Mar-2022 09:52:47 UTC] 0
+[12-Mar-2022 04:48:37 UTC] 0
+[23-Mar-2022 08:45:16 UTC] 0
+[24-Mar-2022 07:30:29 UTC] 0
+[12-Apr-2022 02:45:17 UTC] 0
+[19-Apr-2022 03:05:27 UTC] 0
+[19-Apr-2022 04:06:57 UTC] 0
+[19-Apr-2022 04:16:50 UTC] 0
+[19-Apr-2022 04:34:48 UTC] 0
+[19-Apr-2022 04:45:25 UTC] 0
+[20-Apr-2022 01:22:41 UTC] 0
+[20-Apr-2022 02:47:29 UTC] 0
+[20-Apr-2022 02:58:13 UTC] 0
+[21-Apr-2022 09:50:43 UTC] 0
+[25-Apr-2022 06:52:54 UTC] 0
+[26-Apr-2022 06:59:25 UTC] 0
+[11-May-2022 02:18:48 UTC] 0
+[11-May-2022 03:06:15 UTC] 0
+[20-May-2022 07:12:17 UTC] 0
+[20-May-2022 07:15:04 UTC] 0
+[20-May-2022 07:31:55 UTC] 0
+[20-May-2022 07:36:37 UTC] 0
+[20-May-2022 07:36:42 UTC] 0
+[20-May-2022 07:37:44 UTC] 0
+[20-May-2022 07:37:50 UTC] 0
+[20-May-2022 07:37:56 UTC] 0
+[20-May-2022 07:39:19 UTC] 0
+[27-May-2022 08:06:24 UTC] 0
+[06-Jun-2022 08:44:47 UTC] 0
+[20-Jun-2022 01:56:34 UTC] 0
+[25-Jun-2022 03:12:46 UTC] 0
+[27-Jun-2022 02:51:55 UTC] 0
+[28-Jun-2022 01:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsvcustomer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsvcustomer.php on line 25
+[28-Jun-2022 01:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsvcustomer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsvcustomer.php on line 25
+[28-Jun-2022 02:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/horek940/public_html/mkits/Apps/export/exportcsvcustomer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/horek940/public_html/mkits/Apps/export/exportcsvcustomer.php on line 25
+[19-Jul-2022 04:28:12 UTC] 0
+[19-Jul-2022 09:59:18 UTC] 0
+[05-Sep-2022 08:44:10 Asia/Jakarta] 0
+[07-Dec-2022 17:05:09 Asia/Jakarta] 0
+[29-Dec-2022 14:03:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'model' (T_STRING), expecting ']' in /home/horek940/public_html/mkits/Apps/export/momPdf.php on line 122

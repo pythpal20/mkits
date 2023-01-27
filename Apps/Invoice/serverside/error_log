@@ -1,0 +1,2 @@
+[21-Jun-2022 09:42:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/horek940/public_html/mkits/Apps/Invoice/serverside/ssp.php on line 166
+[21-Jun-2022 09:43:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/horek940/public_html/mkits/Apps/Invoice/serverside/ssp.php on line 166
