@@ -1,8 +1,8 @@
 <?php
 $dbDetails = array( 
     'host' => 'localhost', 
-    'user' => 'horek940_salsys', 
-    'pass' => 'Garuda752021', 
+    'user' => 'root', 
+    'pass' => '', 
     'db'   => 'horek940_salsys' 
 ); 
 ?>
